@@ -1,9 +1,9 @@
 import java.util.Scanner;
 public class Calculator {
     public static void main(String[] args){
-        Scanner sc = new Scanner()
+        Scanner sc = new Scanner();
         int a = sc.nextInt();
-        int b = sc.nextInt();
+        int b = sc.nextInt();}
 
         public int add(int a, int b) {
             return a + b;
@@ -22,4 +22,4 @@ public class Calculator {
             return a / b;
         }
     }
-}
+
